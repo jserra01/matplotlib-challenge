@@ -9,7 +9,7 @@ Create and manipulate Pandas DataFrames to create the necessary graphs and stati
 ## Authors and acknowledgment
 Help obtained from:
 * [makereadme.com](https://www.makeareadme.com/) for README.md template
-* [pandaspydata.org](https://pandas.pydata.org/), [geeksforgeeks.com](www.geeksforgeeks.org), [statology.org](https://www.statology.org/) for help on DataFrame manipulations and Matplotlib
+* [pandaspydata.org](https://pandas.pydata.org/), [geeksforgeeks.com](www.geeksforgeeks.org), and [statology.org](https://www.statology.org/) for help on DataFrame manipulations and Matplotlib
 * [matplotlib.org](https://matplotlib.org/) and [finxter.com](https://blog.finxter.com/matplotlib-boxplot/) for help with Matplotlib plots
 
 ## Project status
